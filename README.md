@@ -5,13 +5,12 @@ Yassine Raddahi<h3></center>
 <h1>Attraction to Interaction:</h1>
 The relation between exhibition-visitors’ behavior and the properties of the Artefacts.
 
-
 <h2>Het project:</h2>
 
-Een interactief schilderij die de gebruiker de mogelijkheid geeft om het beeld te vervormen. Hieronder een impressie.
+Een interactief schilderij die de gebruiker de mogelijkheid geeft om het beeld te vervormen. Hieronder een video om een impressie te krijgen (password: HKU).
 
 <iframe src="https://player.vimeo.com/video/189380210" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/189380210">MentalModel_Video720</a> from <a href="https://vimeo.com/bangbros">SNSTR</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/189380210">MentalModel_Video720</a> at Vimeo.
 
 <h2>Benodigdheden:</h2>
 
@@ -51,5 +50,16 @@ Een interactief schilderij die de gebruiker de mogelijkheid geeft om het beeld t
 	<li>Het enige wat je nu nog moet doen, is de regel 'serial.setup("<b>COM6</b>", 9600);' veranderen in de ofApp.cpp file, naar de USB poort, waar jij je Arduino hebt aangesloten. Om te weten hoe deze poort heet, kun je simpelweg, je Arduino IDE openen en helemaal rechts onderaan zie je in het balkje een "COM of  /dev/cu.usbmodem/number" Poort staan met een getal. That's it!</li>
 	<li>Nu hoef je alleen nog je code te runnen in 'release-mode' binnen Visual Studio of XCode en klaar!</li>
 	<li> Nu kun je uitproberen!</li>
+	<li> Als je Videoloop wilt veranderen, moet je de regel 'video.load("movies/<i>bulge1080.mp4</i>");' in ofApp.cpp, veranderen naar <b>balls1080.mp4</b> . Ook kun je natuurlijk je eigen footage gebruiken door deze in de data folder onder movies te zetten. Let er wel op dat OpenFrameworks heel kieskeurig is met videobestand format (codecs). Kies H.264 / 60 fps, als uitput, met een zo laag mogelijk, bestandsgrootte.</li>
 </ul>
 
+<h2>About my project:</h2>
+
+De video's heb ik zelf gerendered in Cinema 4D. De animaties zijn loops, met abstracten visuals. Door abstracte vormen, contrast en fijne details te gebruiken, wil ik de gebruiker dichtbij laten komen. </br>
+Het uitgangspunt is een projectie op canvas in museum bijvoorbeeld. Met als doel interactie te stimuleren en de gebruik een bepaalde invloed/input te geven.</br>
+
+<p>
+Het bijgaande onderzoek kun je vinden in de onderstaande link:
+
+</br>http://studenthome.hku.nl/~Yassine.Raddahi/RaddahiYassine_InteractionDesign_Research_Ethnografisch-Onderzoek_v1.pdf
+</p>
